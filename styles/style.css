@@ -1,7 +1,7 @@
 main {
   display: flex;
   flex-direction: column;
-  margin-bottom: 145px;
+  margin-bottom: 143px;
 }
 
 .content-section {
@@ -177,11 +177,10 @@ main {
 }
 
 .lots {
-  min-height: 748px;
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 3px;
-  margin-bottom: 130px;
+  margin-bottom: 156px;
 }
 
 .lots__heading {
@@ -190,7 +189,7 @@ main {
   font-size: 40px;
   line-height: 1;
   text-transform: uppercase;
-  padding-bottom: 25px;
+  padding-bottom: 26px;
 }
 
 .lots__card-list {
@@ -300,7 +299,7 @@ main {
   font-size: 40px;
   line-height: 1;
   text-transform: uppercase;
-  padding-top: 105px;
+  padding-top: 108px;
 }
 
 .about__text {
@@ -318,7 +317,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 50px 0 50px;
+  padding: 1px 50px 82px 50px;
 }
 
 .footer_address {
