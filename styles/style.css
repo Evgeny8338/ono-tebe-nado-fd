@@ -58,9 +58,6 @@ main {
 
 .address {
   font-style: inherit;
-}
-
-.header__address {
   justify-self: end;
   font-style: inherit;
   padding-right: 35px;
@@ -180,7 +177,7 @@ main {
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 3px;
-  margin-bottom: 156px;
+  margin-bottom: 155px;
 }
 
 .lots__heading {
@@ -189,7 +186,7 @@ main {
   font-size: 40px;
   line-height: 1;
   text-transform: uppercase;
-  padding-bottom: 26px;
+  padding-bottom: 27px;
 }
 
 .lots__card-list {
@@ -197,7 +194,7 @@ main {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 25px;
   list-style: none;
-  margin-bottom: 29px;
+  margin-bottom: 27px;
 }
 
 .lost__card-list-item {
@@ -320,13 +317,10 @@ main {
   padding: 1px 50px 82px 50px;
 }
 
-.footer_address {
-  font-style: normal;
-}
-
 .footer__menu-list {
   text-align: center;
   list-style: none;
+  padding-right: 20px;
 }
 
 .footer__menu-link {
